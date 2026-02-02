@@ -5,7 +5,7 @@
 ![](https://img.shields.io/github/last-commit/labrgrupo/LabRI_Tool/main.svg)
 
 
-<img src="www/ZEBRA_logo.svg" width="350px" height="250px" align="right"/>
+<img src="www/Logo.svg" width="350px" height="250px" align="right"/>
 
 The LabRI Shiny Application is designed for the estimation and verification of reference intervals in clinical laboratories. This repository includes three key components:
 - **install_packages.Rmd**: Ensures that all required R packages are correctly installed and updated, simplifying the configuration of the R environment for running the LabRI System
